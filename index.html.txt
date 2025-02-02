@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PantaBhaterClub</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ff9800;
+            padding: 20px;
+            color: white;
+            font-size: 24px;
+        }
+        .container {
+            padding: 20px;
+        }
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #ff5722;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        Welcome to PantaBhaterClub
+    </header>
+    <div class="container">
+        <h2>Enjoy the best Panta Bhat recipes & community!</h2>
+        <p>Join our club and explore amazing traditional foods.</p>
+        <a href="#" class="btn">Join Now</a>
+    </div>
+</body>
+</html>
